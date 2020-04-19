@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b661f945-c916-4a76-9ec4-3fcb8be627a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1WOKMH2jJyT0tOyGX0wlqqDLdPa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577722387368" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SPL-3-Master-master/spl-net" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StompServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.net.impl.stomp.StompServer" />
+      <module name="spl-net" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.net.impl.stomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StompServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b661f945-c916-4a76-9ec4-3fcb8be627a4" name="Default Changelist" comment="" />
+      <created>1576080803763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576080803763</updated>
+      <workItem from="1576080809460" duration="4560000" />
+      <workItem from="1576425958628" duration="620000" />
+      <workItem from="1577718845591" duration="2901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8081000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579015200795">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579015200795" />
+    <state x="746" y="413" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579108810452">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="746" y="413" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1579108810452" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579108478717">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579108478717" />
+    <state width="911" height="120" key="GridCell.Tab.0.bottom" timestamp="1579446569105">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="1807" height="195" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579123067866" />
+    <state width="911" height="120" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579446569105" />
+    <state width="911" height="120" key="GridCell.Tab.0.center" timestamp="1579446569105">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="1807" height="195" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579123067865" />
+    <state width="911" height="120" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579446569105" />
+    <state width="911" height="120" key="GridCell.Tab.0.left" timestamp="1579446569105">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="1807" height="195" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579123067864" />
+    <state width="911" height="120" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579446569105" />
+    <state width="911" height="120" key="GridCell.Tab.0.right" timestamp="1579446569105">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="1807" height="195" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579123067866" />
+    <state width="911" height="120" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579446569105" />
+    <state width="911" height="231" key="GridCell.Tab.1.bottom" timestamp="1579446569100">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="1807" height="362" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579111296705" />
+    <state width="911" height="231" key="GridCell.Tab.1.bottom/67.27.957.741@67.27.957.741" timestamp="1579446569100" />
+    <state width="911" height="231" key="GridCell.Tab.1.center" timestamp="1579446569099">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="1807" height="362" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579111296704" />
+    <state width="911" height="231" key="GridCell.Tab.1.center/67.27.957.741@67.27.957.741" timestamp="1579446569099" />
+    <state width="911" height="231" key="GridCell.Tab.1.left" timestamp="1579446569099">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="1807" height="362" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579111296703" />
+    <state width="911" height="231" key="GridCell.Tab.1.left/67.27.957.741@67.27.957.741" timestamp="1579446569099" />
+    <state width="911" height="231" key="GridCell.Tab.1.right" timestamp="1579446569100">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="1807" height="362" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579111296704" />
+    <state width="911" height="231" key="GridCell.Tab.1.right/67.27.957.741@67.27.957.741" timestamp="1579446569100" />
+    <state x="67" y="187" key="SettingsEditor" timestamp="1579032132077">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579032132077" />
+    <state x="127" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1579450276466">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="183" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579194947856" />
+    <state x="127" y="275" key="com.intellij.ide.util.TipDialog/67.27.957.741@67.27.957.741" timestamp="1579450276466" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/stomp/StompServer.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/api/StompMessageEncoderDecoder.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
